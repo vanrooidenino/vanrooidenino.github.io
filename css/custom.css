@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+body { padding-top: 70px; }
+
+.jumbotron_bg {
+	background-color: #0b215f;
+	text-align: center;
+	margin-top: 0px;
+	color: #FFF;
+	background-image: url(../img/webdesignerdenino.png);
+	background-repeat: repeat;
+	background-position: center;
+}
+.webdesign  {
+	background-image: url(/portf/img/portrait.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+	color: #CCC;
+	text-align: center;
+}
+.content_style h1, h2, h3{
+	color: #F60;
+}
